@@ -43,7 +43,7 @@ body {
     background-color: #262d42;
     border-radius: 10px;
     height: 18px;
-    width: 55px;
+    width: 52px;
     float: right;
     margin-left: 20px;
     margin-bottom: 0px;
@@ -72,7 +72,7 @@ body {
   border-radius: 50%;
   display: inline-block;
   margin-top:2px;
-  margin-left: 1px;
+  margin-left: 2px;
   margin-bottom: 2px;
 }
 .emptydot{
