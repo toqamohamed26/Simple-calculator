@@ -65,14 +65,15 @@ body {
   margin-bottom: 2px;
 }
 .emptydot{
-    height:13px;
+  height:13px;
   width: 13px;
-  background-color: #262d42;
+  background-color: transparent;
   border-radius: 50%;
-  display: inline-block;
   margin-top:2px;
   margin-left: 2px;
   margin-bottom: 2px;
+  display: flex;
+  justify-content: space-between;
 }
 .disactive{
     height:13px;
