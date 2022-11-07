@@ -21,7 +21,7 @@ body {
 }
 .nums{
     float: right;
-    margin-top: 40px;
+    margin-top: 44px;
     margin-bottom: 0px;
 }
 .top{
@@ -43,28 +43,17 @@ body {
     background-color: #262d42;
     border-radius: 10px;
     height: 18px;
-    width: 52px;
+    width: 47px;
     float: right;
     margin-left: 20px;
     margin-bottom: 0px;
+    display: flex;
+    justify-content: space-between;
 }
 .gh{
     float: right;
 }
 
-.vb{
-    margin-left: 13px;
-    margin-top: 17px;
-    background-color: #9f611b;
-    width: 65px;
-    height: 35px;
-    color: rgb(186, 162, 162);
-    font-weight: bold;
-    font-size: 20px;
-    vertical-align: center;
-    text-align: center;
-    padding: 0 auto;
-}
 .dot{
   height:13px;
   width: 13px;
