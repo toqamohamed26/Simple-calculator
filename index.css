@@ -12,7 +12,9 @@ body {
     width: 340px;
     margin-top: 80px;
 }
-
+.gh{
+    float: right;
+}
 .calcWord {
     margin-top: 60px;
     margin-left: 5px;
