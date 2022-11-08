@@ -37,7 +37,6 @@ body {
     letter-spacing: 1px;
     height: 25px;
     margin-right: 0px;
-    
 }
 .span1{
     background-color: #262d42;
@@ -49,9 +48,6 @@ body {
     margin-bottom: 0px;
     display: flex;
     justify-content: space-between;
-}
-.gh{
-    float: right;
 }
 
 .dot{
@@ -148,7 +144,6 @@ body {
 
 .btn:hover {
     transform: translateY(2px);
-
 }
 
 .btn2 {
@@ -162,7 +157,6 @@ body {
     margin-left: 20px;    
     font-size: 50px;
     font-family: 'Times New Roman', Times, serif;
-
 }
 .result{
     color: #e9e3dc;
@@ -170,5 +164,4 @@ body {
     float: right;
      font-family: 'Times New Roman', Times, serif;
      margin-right: 30PX;
-
 }
